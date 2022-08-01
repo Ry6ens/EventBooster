@@ -1,5 +1,5 @@
 {
-  "name": "parcel-project-template",
+  "name": "eventbooster",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://oLORDer.github.io/EventBooster",
@@ -24,10 +24,7 @@
     "@parcel/transformer-sass": "^2.6.0",
     "notiflix": "^3.2.5",
     "parcel": "^2.6.0",
-    "parcel-packager-svg-sprite": "^2.0.0",
     "parcel-reporter-clean-dist": "^1.0.4",
-    "parcel-transformer-hbs": "^1.0.4",
-    "parcel-transformer-svg-sprite": "^2.0.0",
     "posthtml-include": "^1.7.4"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
