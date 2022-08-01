@@ -2,7 +2,7 @@
   "name": "eventbooster",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://oLORDer.github.io/EventBooster",
+  "homepage": "https://ry6ens.github.io/EventBooster",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /EventBooster/"
