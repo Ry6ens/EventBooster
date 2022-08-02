@@ -66,3 +66,15 @@ Online від GoIt
   - кнопка для плавного скролу до початку сторінки
 
 Проект реалізували:
+
+Катерина Дудар (Team-Lead)
+
+Андрій Клочков (Scrum Master)
+
+Денис Дашкевич (Full Stack Dev)
+
+В'ячеслав Ушаков (Full Stack Dev)
+
+[Сергій Гулага](https://github.com/Ry6ens) (Full Stack Dev)
+
+Максим Перловський (Full Stack Dev)
