@@ -61,14 +61,30 @@ Project implemented:
 
 [Katherine Dudar](https://github.com/Katherineeeeeeee) (Team-Lead)
 
+- render cards styles + scroll btn + loader
+
 [Andrii Klochko](https://github.com/oLORDer) (Scrum Master)
+
+- pagination logic, switching pages
 
 [Denys Dashkevych](https://github.com/MajorPrestige) (Full Stack Dev)
 
+- fetch api
+
 [Vyacheslav Ushakov](https://github.com/zerkel1991) (Full Stack Dev)
+
+- footer + svg sprite + animation for cards
 
 [Sergii Gulaga](https://github.com/Ry6ens) (Full Stack Dev)
 
-- modal card + styles + animation + js for btn "more from this author"
+18. Markup and modal styles of a specific event
+19. Darkening and blurring of the background when the modal is open
+20. The logic of loading and displaying event data in open mode
+21. Placement of event links in ticket purchase buttons
+22. The logic of loading and displaying events after clicking the "More from
+    this author" button
+23. The logic of closing the modal when clicking on the cross and beyond it
 
 [Maksym Perlovskyi](https://github.com/Maksym150678) (Full Stack Dev)
+
+- modal window for team + css styles + animation
