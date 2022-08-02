@@ -77,13 +77,13 @@ Project implemented:
 
 [Sergii Gulaga](https://github.com/Ry6ens) (Full Stack Dev)
 
-18. Markup and modal styles of a specific event
-19. Darkening and blurring of the background when the modal is open
-20. The logic of loading and displaying event data in open mode
-21. Placement of event links in ticket purchase buttons
-22. The logic of loading and displaying events after clicking the "More from
-    this author" button
-23. The logic of closing the modal when clicking on the cross and beyond it
+- Markup and modal styles of a specific event
+- Darkening and blurring of the background when the modal is open
+- The logic of loading and displaying event data in open mode
+- Placement of event links in ticket purchase buttons
+- The logic of loading and displaying events after clicking the "More from this
+  author" button
+- The logic of closing the modal when clicking on the cross and beyond it
 
 [Maksym Perlovskyi](https://github.com/Maksym150678) (Full Stack Dev)
 
