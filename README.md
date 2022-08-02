@@ -67,6 +67,7 @@ Project implemented:
 
 [Vyacheslav Ushakov](https://github.com/zerkel1991) (Full Stack Dev)
 
-[Sergii Gulaga](https://github.com/Ry6ens) (Full Stack Dev)
+[Sergii Gulaga](https://github.com/Ry6ens) (Full Stack Dev) modal card +
+styles + animation + js for btn "more from this author"
 
 [Maksym Perlovskyi](https://github.com/Maksym150678) (Full Stack Dev)
