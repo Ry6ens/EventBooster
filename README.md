@@ -10,33 +10,29 @@ Online by GoIt
 [Task List](https://docs.google.com/spreadsheets/d/19zS365fIf0gNfE8-Q-ruMeYiI7GVlrtNLl45MvLXDPs/edit#gid=0):
 
 ```
-1. Відображення бекграунду (телефон, планшет, десктоп) Home
-2. Відображення логотипу (телефон, планшет, робочий стіл) Home
-3. Відображення заголовка (телефон, планшет, робочий стіл) Home
-4. Розмітка та стилі контейнера для карток (телефон, планшет, десктоп) Home
-5. Розмітка рядка пошуку Home
-6. Логіка рядка пошуку за назвою події Home
-7. Розмітка рядка вибору країни Home
-8. Логіка дропдауну з вибором країни (для початку подивитися, інформацію про які
-   країни повертає API) Home
-9. Логіка підвантаження та відображення подій за назвою Home
-10. Анімація відображення подій під час першого відвідування головної сторінки
-    Home
-11. Розмітка та стилі однієї картки події Home
-12. Логіка підвантаження подій при першому завантаженні сторінки Home
-13. Розмітка та стилі пагінації Home
-14. Логіка пагінації, перехід сторінками Home
-15. Анімація руху виділеної сторінки у пагінації Home
-16. Розмітка та стилі футера Home
-17. Анімація появи модалки Modal
-18. Розмітка та стилі модалки конкретної події Modal
-19. Затемнення та розмиття заднього фону при відкритій модалці Modal
-20. Логіка підвантаження та відображення даних про подію у відкритій модалці
-    Modal
-21. Розміщення посилань на подію у кнопках покупки квитків Modal
-22. Логіка підвантаження та відображення подій після натискання на кнопку "More
-    from this author" Modal
-23. Логіка закриття модалки при натисканні на хрестик та за її межі Modal
+1. Background display (phone, tablet, desktop)
+2. Logo display (phone, tablet, desktop)
+3. Displaying the title (phone, tablet, desktop)
+4. Layout and styles of the card container (phone, tablet, desktop)
+5. Markup of the search bar
+6. Search string logic by event name
+7. Marking of the country selection line
+8. Dropdown logic with country selection (to start, see information about which countries the API returns)
+9. The logic of loading and displaying events by name
+10. Animation of displaying events during the first visit to the main page
+11. Layout and styles of one event card
+12. The logic of loading events when the page is first loaded
+13. Markup and pagination styles
+14. Pagination logic, switching pages
+15. Animation of the movement of the selected page in pagination
+16. Markup and footer styles
+17. Modal appearance animation
+18. Markup and modal styles of a specific event
+19. Darkening and blurring of the background when the modal is open
+20. The logic of loading and displaying event data in open mode
+21. Placement of event links in ticket purchase buttons
+22. The logic of loading and displaying events after clicking the "More from this author" button
+23. The logic of closing the modal when clicking on the cross and beyond it
 ```
 
 Technologies used to implement the project:
