@@ -65,16 +65,16 @@ Online від GoIt
   - loader
   - кнопка для плавного скролу до початку сторінки
 
-Проект реалізували:
+### Проект реалізували:
 
-Катерина Дудар (Team-Lead)
+[Katherine Dudar](https://github.com/Katherineeeeeeee) (Team-Lead)
 
-Андрій Клочков (Scrum Master)
+[Andrii Klochko](https://github.com/oLORDer) (Scrum Master)
 
-Денис Дашкевич (Full Stack Dev)
+[Denys Dashkevych](https://github.com/MajorPrestige) (Full Stack Dev)
 
-В'ячеслав Ушаков (Full Stack Dev)
+[Vyacheslav Ushakov](https://github.com/zerkel1991) (Full Stack Dev)
 
-[Сергій Гулага](https://github.com/Ry6ens) (Full Stack Dev)
+[Sergii Gulaga](https://github.com/Ry6ens) (Full Stack Dev)
 
-Максим Перловський (Full Stack Dev)
+[Maksym Perlovskyi](https://github.com/Maksym150678) (Full Stack Dev)
