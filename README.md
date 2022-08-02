@@ -1,7 +1,9 @@
 # Командний проект "EventBooster"
 
-/_ виконаний після проходження модуля JS на курсі Full Stack Developer Bootcamp
-23 Online від GoIt _/
+виконаний після проходження модуля JS на курсі Full Stack Developer Bootcamp 23
+Online від GoIt
+
+##
 
 В ході виконання проекту було створено сервіс пошуку подій, його було
 реалізовано таким чином, щоб відвідувачам було зручно користуватися незалежно
@@ -56,7 +58,7 @@ https://docs.google.com/spreadsheets/d/19zS365fIf0gNfE8-Q-ruMeYiI7GVlrtNLl45MvLX
 
 В проекті реалізовано:
 
-- всі пункти згідно ТЗ
+- всі пункти згідно ТЗ:
   https://docs.google.com/spreadsheets/d/19zS365fIf0gNfE8-Q-ruMeYiI7GVlrtNLl45MvLXDPs/edit#gid=0
 
 - додатково:
