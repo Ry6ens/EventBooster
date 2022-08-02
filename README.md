@@ -1,17 +1,13 @@
-# Командний проект "EventBooster"
+# Team project "EventBooster"
 
-виконаний після проходження модуля JS на курсі Full Stack Developer Bootcamp 23
-Online від GoIt
+completed after finished the JS Module course Full Stack Developer Bootcamp 23
+Online by GoIt
 
 ##
 
-В ході виконання проекту було створено сервіс пошуку подій, його було
-реалізовано таким чином, щоб відвідувачам було зручно користуватися незалежно
-від розміру їх девайса.
+[Figma](<https://www.figma.com/file/AOs5DvnIvdZ67VSFGB2vXc/EVENT-BOOSTER-(Copy)?node-id=0%3A1>)
 
-[Макет](<https://www.figma.com/file/AOs5DvnIvdZ67VSFGB2vXc/EVENT-BOOSTER-(Copy)?node-id=0%3A1>)
-
-[Технічне завдання](https://docs.google.com/spreadsheets/d/19zS365fIf0gNfE8-Q-ruMeYiI7GVlrtNLl45MvLXDPs/edit#gid=0):
+[Task List](https://docs.google.com/spreadsheets/d/19zS365fIf0gNfE8-Q-ruMeYiI7GVlrtNLl45MvLXDPs/edit#gid=0):
 
 ```
 1. Відображення бекграунду (телефон, планшет, десктоп) Home
@@ -43,7 +39,7 @@ Online від GoIt
 23. Логіка закриття модалки при натисканні на хрестик та за її межі Modal
 ```
 
-Технології що використовувались для реалізації проекту:
+Technologies used to implement the project:
 
 - vs code
 - git
@@ -54,18 +50,18 @@ Online від GoIt
 - CSS grid
 - JS
 
-В проекті реалізовано:
+Project implemented:
 
-- всі пункти згідно
-  [ТЗ](https://docs.google.com/spreadsheets/d/19zS365fIf0gNfE8-Q-ruMeYiI7GVlrtNLl45MvLXDPs/edit#gid=0)
+- all items according to:
+  [TASK LIST](https://docs.google.com/spreadsheets/d/19zS365fIf0gNfE8-Q-ruMeYiI7GVlrtNLl45MvLXDPs/edit#gid=0)
 
-- додатково:
-
-  - кастомний скрол
+- additionally:
+  - customize scroll
   - loader
-  - кнопка для плавного скролу до початку сторінки
+  - smooth scroll to the top
+  - dark/light theme toggle
 
-## Проект реалізували:
+## Development team:
 
 [Katherine Dudar](https://github.com/Katherineeeeeeee) (Team-Lead)
 
