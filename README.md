@@ -65,7 +65,7 @@ Online від GoIt
   - loader
   - кнопка для плавного скролу до початку сторінки
 
-### Проект реалізували:
+## Проект реалізували:
 
 [Katherine Dudar](https://github.com/Katherineeeeeeee) (Team-Lead)
 
