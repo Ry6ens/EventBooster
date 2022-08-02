@@ -9,10 +9,9 @@ Online від GoIt
 реалізовано таким чином, щоб відвідувачам було зручно користуватися незалежно
 від розміру їх девайса.
 
-[Макет]https://www.figma.com/file/AOs5DvnIvdZ67VSFGB2vXc/EVENT-BOOSTER-(Copy)?node-id=0%3A1
+[Макет](<https://www.figma.com/file/AOs5DvnIvdZ67VSFGB2vXc/EVENT-BOOSTER-(Copy)?node-id=0%3A1>)
 
-Технічне завдання:
-https://docs.google.com/spreadsheets/d/19zS365fIf0gNfE8-Q-ruMeYiI7GVlrtNLl45MvLXDPs/edit#gid=0
+[Технічне завдання](https://docs.google.com/spreadsheets/d/19zS365fIf0gNfE8-Q-ruMeYiI7GVlrtNLl45MvLXDPs/edit#gid=0)
 
 ```
 1. Відображення бекграунду (телефон, планшет, десктоп) Home
@@ -58,7 +57,7 @@ https://docs.google.com/spreadsheets/d/19zS365fIf0gNfE8-Q-ruMeYiI7GVlrtNLl45MvLX
 В проекті реалізовано:
 
 - всі пункти згідно
-  [ТЗ]https://docs.google.com/spreadsheets/d/19zS365fIf0gNfE8-Q-ruMeYiI7GVlrtNLl45MvLXDPs/edit#gid=0
+  [ТЗ](https://docs.google.com/spreadsheets/d/19zS365fIf0gNfE8-Q-ruMeYiI7GVlrtNLl45MvLXDPs/edit#gid=0)
 
 - додатково:
 
