@@ -73,7 +73,7 @@ Project implemented:
 
 [Vyacheslav Ushakov](https://github.com/zerkel1991) (Full Stack Dev)
 
-- footer + svg sprite + animation for cards
+- Markup and footer styles
 
 [Sergii Gulaga](https://github.com/Ry6ens) (Full Stack Dev)
 
@@ -87,4 +87,5 @@ Project implemented:
 
 [Maksym Perlovskyi](https://github.com/Maksym150678) (Full Stack Dev)
 
-- modal window for team + css styles + animation
+- Modal appearance animation for team
+- Markup and modal styles for team
