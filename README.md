@@ -61,7 +61,11 @@ Project implemented:
 
 [Katherine Dudar](https://github.com/Katherineeeeeeee) (Team-Lead)
 
-- render cards styles + scroll btn + loader
+- background display (phone, tablet, desktop)
+- layout and styles of one event card
+- loader
+- smooth scroll to the top
+- dark/light theme toggle
 
 [Andrii Klochko](https://github.com/oLORDer) (Scrum Master)
 
@@ -77,13 +81,14 @@ Project implemented:
 
 [Sergii Gulaga](https://github.com/Ry6ens) (Full Stack Dev)
 
-- Markup and modal styles of a specific event
-- Darkening and blurring of the background when the modal is open
-- The logic of loading and displaying event data in open mode
-- Placement of event links in ticket purchase buttons
-- The logic of loading and displaying events after clicking the "More from this
+- markup and modal styles of a specific event
+- darkening and blurring of the background when the modal is open
+- the logic of loading and displaying event data in open mode
+- placement of event links in ticket purchase buttons
+- the logic of loading and displaying events after clicking the "More from this
   author" button
 - The logic of closing the modal when clicking on the cross and beyond it
+- customize scroll
 
 [Maksym Perlovskyi](https://github.com/Maksym150678) (Full Stack Dev)
 
