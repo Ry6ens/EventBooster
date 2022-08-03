@@ -85,7 +85,14 @@ Project implemented:
 
 [Vyacheslav Ushakov](https://github.com/zerkel1991) (Full Stack Dev)
 
-- Markup and footer styles
+- logo display (phone, tablet, desktop)
+- displaying the title (phone, tablet, desktop)
+- markup of the search bar
+- marking of the country selection line
+- dropdown logic with country selection (to start, see information about which
+  countries the API returns)
+- animation of displaying events during the first visit to the main page
+- markup and footer styles
 
 [Sergii Gulaga](https://github.com/Ry6ens) (Full Stack Dev)
 
