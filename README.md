@@ -78,6 +78,7 @@ Project implemented:
 - search string logic by event name
 - the logic of loading and displaying events by name
 - the logic of loading events when the page is first loaded
+- the logic of loading and displaying event data in open mode
 - the logic of closing the modal when clicking on the cross and beyond it
 
 [Vyacheslav Ushakov](https://github.com/zerkel1991) (Full Stack Dev)
