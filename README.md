@@ -7,7 +7,7 @@ Online by GoIt
 
 [Figma](<https://www.figma.com/file/AOs5DvnIvdZ67VSFGB2vXc/EVENT-BOOSTER-(Copy)?node-id=0%3A1>)
 
-![GitHub actions settings](./assets/screenshot.png)
+[Screenshot](./assets/screenshot.png)
 
 [Task List](https://docs.google.com/spreadsheets/d/19zS365fIf0gNfE8-Q-ruMeYiI7GVlrtNLl45MvLXDPs/edit#gid=0):
 
