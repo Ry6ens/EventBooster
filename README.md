@@ -71,7 +71,9 @@ Project implemented:
 
 [Andrii Klochko](https://github.com/oLORDer) (Scrum Master)
 
+- markup and pagination styles
 - pagination logic, switching pages
+- animation of the movement of the selected page in pagination
 
 [Denys Dashkevych](https://github.com/MajorPrestige) (Full Stack Dev)
 
